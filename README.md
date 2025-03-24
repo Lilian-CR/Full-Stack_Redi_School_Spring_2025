@@ -10,11 +10,9 @@ My progress in class.
   <li><a href="https://www.example.com"><b>03-capstone:</b></a></li>
   <li><a href="https://www.example.com"><b>04-career:</b></a></li>
 </ul>
-<br>
 <ul>
   <li><a href="https://www.example.com"><b>KOTLIN Studies:</b></a></li>
 </ul>
-<br>
 <ul>
   <li><a href="https://www.example.com"><b>SWIFT Studies:</b></a></li>
 </ul>
