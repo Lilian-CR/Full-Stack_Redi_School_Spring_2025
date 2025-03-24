@@ -16,4 +16,4 @@ My progress in class
   <li><a href="https://www.example.com"><b>SWIFT Studies:</b></a></li>
 </ul>
 Live:  <br>
-<a href="https://github.com/Lilian-CR/Full-Stack_Redi_School_Spring_2025/blob/00-milestone/00-milestone.html)"><b>https://lilian-cr.github.io/Full-Stack_Redi_School_Spring_2025/</b></a>
+<a href="https://github.com/Lilian-CR/Full-Stack_Redi_School_Spring_2025/blob/00-milestone.html)"><b>https://lilian-cr.github.io/Full-Stack_Redi_School_Spring_2025/</b></a>
