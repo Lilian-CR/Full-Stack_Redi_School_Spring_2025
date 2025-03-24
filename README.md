@@ -16,4 +16,4 @@ My progress in class.
 <ul>
   <li><a href="https://www.example.com"><b>SWIFT Studies:</b></a></li>
 </ul>
-Live: [https://full-stack-2025-redi-school.netlify.app/](https://lilian-cr.github.io/Full-Stack_Redi_School_Spring_2025/)]
+Live: (https://lilian-cr.github.io/Full-Stack_Redi_School_Spring_2025/)
